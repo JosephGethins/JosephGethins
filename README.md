@@ -1,4 +1,4 @@
-👋 Hi, I’m @JosepGethins
+👋 Hi, I’m @JosephGethins
 
 ---
 
