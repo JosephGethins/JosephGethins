@@ -1,5 +1,7 @@
 👋 Hi, I’m @JosephGethins
 
+Im a Software Engineering Student with a hunger for experience and a passion for game development!
+
 ---
 
 👀  Languages I can use Include:
