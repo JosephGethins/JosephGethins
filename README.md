@@ -15,7 +15,7 @@ Im a Software Engineering Student with a hunger for experience and a passion for
   - ⚪ R (specifically in R studio)
 ---
 
-👀  Languages I'm currently learning / have past experience with
+👀  Languages I'm currently highly interested in using include:
   - 🟣 C#
   - 🔷 C++
 
