@@ -1,6 +1,6 @@
 👋 Hi, I’m @JosephGethins
 
-Im a Software Engineering Student with a hunger for experience and a passion for designing interactive experiences!
+Im a First Class Honours Software Engineering Student with a hunger for experience and a passion for game development!
 
 ---
 
